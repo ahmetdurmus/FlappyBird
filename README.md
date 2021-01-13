@@ -1,2 +1,2 @@
 # FlappyBird
-React Native ile react-native-game-engine ve MatterJs kütüphaneleri kullanılarak FlappyBird oyunu
+FlappyBird game with react native using react-native-game-engine and MatterJs libraries
